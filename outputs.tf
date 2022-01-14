@@ -4,5 +4,5 @@ output "catapp_url" {
 }
 
 output "catapp_ip" {
-  value = "http://${aws_eip.hashicat.public_ip}"
+  value = "http://13.52.38.119"
 }
